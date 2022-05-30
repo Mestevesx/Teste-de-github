@@ -1,3 +1,7 @@
+*{
+  text-align: end;
+}
+
 body {
   background-color: azure;
 }
